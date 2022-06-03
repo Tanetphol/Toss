@@ -14,7 +14,6 @@ class Solution:
                 left += 1
             else:
                 right -= 1
-        asd
         return ans
 a=Solution()
 a.maxOperations([1,1,2,1,2,1,1],2)
